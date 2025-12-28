@@ -15,3 +15,20 @@ This project demonstrates my ability to:
 - Security documentation
 - NIST framework application
 - Github version control
+- 
+  ## Incident Response Case Study - HTTP Alert Analysis
+  This artifact documents the investigation of a signature-based HTTP alert detected during network monitoring activities.
+**Skills demonstrated:**
+- Security alert analysis
+- Network security traffic investigation
+- Incident documentation using the 5 W's framework
+- SIEM and IDS tools usage
+- **Tools used:**
+- SIEM
+- Suricata
+- Chronicle
+
+- **Included file:**
+- Incident handler's journal MDJ - page 1.pdf
+
+  
